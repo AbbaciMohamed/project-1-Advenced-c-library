@@ -1,0 +1,1 @@
+This is the part one from our ALDDS 2nd project that is a c advenced library that contains many helpfull functions with dynamic data structurs : lllists bllists stacks queues and binary search trees !
